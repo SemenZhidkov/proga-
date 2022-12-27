@@ -1,0 +1,9 @@
+  #include <iostream>
+#include <vector>
+
+int main() {
+    int h = 0, w = 0;
+        std::cin >> h >> w;
+        
+}
+
